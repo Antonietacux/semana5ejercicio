@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function ObjetivosCard({ competencia, indicadorLogro }) {
     return (
         <div style={{ border: '1px solid #cbd5e1', borderLeft: '5px solid #69b2d4', padding: '15px', borderRadius: '6px', background: '#f8fafc', margin: '15px 0' }}>
